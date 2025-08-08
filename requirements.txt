@@ -7,3 +7,5 @@ pypdf
 bs4
 arxiv
 PyMuPDF
+wikipedia
+langchain-text-splitters
